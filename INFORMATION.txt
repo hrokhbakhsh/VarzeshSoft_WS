@@ -1,0 +1,17 @@
+Server Address:
+185.187.51.207
+
+-----------------------------
+Remote Desktop:
+185.187.51.207:10007
+
+User: Administrator
+Pass: SabaHost#
+
+-----------------------------
+MariaDB:
+
+PortNumber: 32123
+Pass: P@ssw0rd
+
+-----------------------------
